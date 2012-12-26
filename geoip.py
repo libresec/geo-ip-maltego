@@ -1,9 +1,5 @@
-#import library to do http requests and get arguments:
-import urllib2,sys
-
-#import easy to use xml parser called minidom:
+import urllib2, sys
 from xml.dom.minidom import parseString
-
 
 #prepare URL and download the file:
 api = 'http://smart-ip.net/geoip-xml/'
