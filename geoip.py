@@ -1,7 +1,6 @@
 import urllib2, sys
 from xml.dom.minidom import parseString
 
-#prepare URL and download the file:
 api = 'http://smart-ip.net/geoip-xml/'
 
 query_string = sys.argv[1]
