@@ -22,4 +22,4 @@ $python geoip.py [argument]
 To generate the transform XML, this includes MaltegoTransform-py
 from Paterva.
 
-http://www.paterva.com/web6/documentation/MaltegoTransform-Python.zip
+- http://www.paterva.com/web6/documentation/MaltegoTransform-Python.zip
