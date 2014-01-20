@@ -23,3 +23,7 @@ To generate the transform XML, this includes MaltegoTransform-py
 from Paterva.
 
 - http://www.paterva.com/web6/documentation/MaltegoTransform-Python.zip
+
+HTTP requests require the requests module.
+
+- http://docs.python-requests.org/en/latest/
