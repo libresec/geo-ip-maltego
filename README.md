@@ -1,7 +1,9 @@
 # About 
 
-GeoIP resolution transform for smart-ip.net
+GeoIP resolution transform for smart-ip.net. Accepts 
+an ip address or domain name as a command line argument 
+and returns the geoip information. 
 
-# Notes
+# Usage
 
-This will be rewritten in the near future.
+python geoip.py <argument>
