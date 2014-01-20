@@ -11,7 +11,11 @@ name.
 
 # Usage
 
-```$python geoip.py [argument]```
+```
+
+$python geoip.py [argument]
+
+```
 
 # Dependencies
 
