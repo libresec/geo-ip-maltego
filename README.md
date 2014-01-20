@@ -7,7 +7,7 @@ and returns the geoip information.
 # Install
 
 Import into Maltego and run it on an ip address or domain
-name.
+name entity.
 
 # Usage
 
