@@ -4,13 +4,13 @@ geoip information from the smart-ip.net json API.
 
 '''
 from __future__ import print_function
-from MaltegoTransform import *
+import MaltegoTransform
 import requests
 import sys
 
 api = 'http://smart-ip.net/geoip-json/'
 ip = sys.argv[1]
-transform = MaltegoTransform()
+transform = MaltegoTransform.MaltegoTransform()
 
 try:
     response = requests.get(api + ip)
